@@ -1,0 +1,12 @@
+.full-width-table {
+  width: 100%;
+}
+
+mat-card, div.mat-elevation-z8, button {
+  margin: 16px;
+}
+
+button {
+  margin-bottom: 0;
+}
+
